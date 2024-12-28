@@ -1,6 +1,6 @@
 # bandit
 
-go to the notebook for my writeup for overthewire's [bandit game!](https://overthewire.org/wargames/bandit/)
+my writeups for overthewire's [bandit game!](https://overthewire.org/wargames/bandit/)
 
 ```
                          _                     _ _ _   
